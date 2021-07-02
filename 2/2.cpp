@@ -99,7 +99,6 @@ main()
 		scanf("%d",&i);
 		if(0<i&&i<=n) 
 		{
-			
 			GetElem(L,i,e);
 			printf("所查找元素的值为：%f\n",e);
 		}
